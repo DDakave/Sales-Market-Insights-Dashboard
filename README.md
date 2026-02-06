@@ -133,8 +133,11 @@ Decision Support: Enables data-driven decisions for pricing, targeting, and sale
 
 ### Screenshots 
 
-Add dashboard screenshots here
+### Page 1: Sales Performance Overview  
+[Sales Overview](https://github.com/DDakave/Sales-Market-Insights-Dashboard/blob/main/House%20Market%20Overview%20New.png)
 
-![Sales Dashboard Preview](https://github.com/DDakave/Sales-Market-Insights-Dashboard/blob/main/House%20Market%20Overview%20New.png,
-https://github.com/DDakave/Sales-Market-Insights-Dashboard/blob/main/SALES%20PERFORMANCE.png,
-https://github.com/DDakave/Sales-Market-Insights-Dashboard/blob/main/COMPARATIVE%20%26%20TREND%20ANALYSIS.png)
+### Page 2: Regional & Pricing Analysis  
+![Regional Analysis](https://github.com/DDakave/Sales-Market-Insights-Dashboard/blob/main/SALES%20PERFORMANCE.png)
+
+### Page 3: Trend & Influencer Analysis  
+![Trend Analysis](https://github.com/DDakave/Sales-Market-Insights-Dashboard/blob/main/COMPARATIVE%20%26%20TREND%20ANALYSIS.png)
